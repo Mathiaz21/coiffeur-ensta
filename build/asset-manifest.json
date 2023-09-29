@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14fa73e7.css",
+    "main.js": "/static/js/main.376af82d.js",
+    "static/media/campusEnsta.jpg": "/static/media/campusEnsta.e32633ad03149d571522.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "static/media/barberIcon2.jpg": "/static/media/barberIcon2.7a16b4a700a070fca474.jpg",
+    "index.html": "/index.html",
+    "main.14fa73e7.css.map": "/static/css/main.14fa73e7.css.map",
+    "main.376af82d.js.map": "/static/js/main.376af82d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14fa73e7.css",
+    "static/js/main.376af82d.js"
+  ]
+}
